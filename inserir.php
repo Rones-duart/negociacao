@@ -22,7 +22,7 @@
 			<div class="acomodar">
 			
 				<!-- formulario de cadastro de mercadorias -->
-				<form method="post" action="inserindo_mercad.php" >
+				<form method="post" action="inserir_mercadoria.php" >
 				
 					<label for="cod_mercad" class="label"><strong>*Código da Mercadoria:</strong></label>
 					<input id="cod_mercad" class="txt bradius" type="text" name="cod_mercad" value="" />
